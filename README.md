@@ -66,7 +66,7 @@ Project is open source. Feel free to make your own version. All you need to do i
 
 ## Prerequisites 🍪
 
-You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed on your PC. You should also own a GitHub account.
+You should have [Android Studio](https://developer.android.com/studio) and [Git](https://git-scm.com/) installed on your PC. You should also own a GitHub account.
 
 ## Setup And Deployment 🔧
 
